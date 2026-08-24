@@ -26,9 +26,9 @@ jobs:
     - name: Build Docker image
       run: |
         docker build \
-        -t afierro4458/adrielfierrosite:latest .
+        -t afierro4458/adrielfierrositefront:latest .
 
 
     - name: Push Docker image
       run: |
-        docker push afierro4458/adrielfierrosite:latest
+        docker push afierro4458/adrielfierrositefront:latest
