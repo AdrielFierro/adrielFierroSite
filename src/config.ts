@@ -22,7 +22,7 @@ export const AUTHOR = {
 
   /** Tu biografía breve / Your short bio */
   bio: {
-    es: 'Soy un desarrollador interesado en las tecnologías web modernas y colaboro con proyectos de código abierto. Aquí comparto proyectos de ejemplo y publicaciones.',
+    es: 'Soy un desarrollador interesado en las tecnologías web modernas y colaboro con proyectos de código abierto. Aquí comparto proyectos de ejemplo y publicaciones. Tamos en docker',
     en: 'A developer interested in modern web technologies and contributing to open source projects. Documenting example projects and posts here.',
   },
 
