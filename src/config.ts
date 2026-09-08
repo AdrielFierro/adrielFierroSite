@@ -33,33 +33,18 @@ export const AUTHOR = {
 export const SOCIALS = [
   {
     label: 'Mail',
-    href: 'mailto:johndoe@example.com',
+    href: 'mailto:adri.fierro@outlook.com',
     icon: 'mdi:email',
   },
   {
     label: 'GitHub',
-    href: 'https://github.com/example',
+    href: 'https://github.com/AdrielFierro',
     icon: 'mdi:github',
   },
   {
-    label: 'X',
-    href: 'https://x.com/example',
-    icon: 'mdi:twitter',
-  },
-  {
     label: 'LinkedIn',
-    href: 'https://linkedin.com/in/example',
+    href: 'https://www.linkedin.com/in/adriel-fierro-371114180/',
     icon: 'mdi:linkedin',
-  },
-  {
-    label: 'Mastodon',
-    href: 'https://mastodon.social/@example',
-    icon: 'mdi:mastodon',
-  },
-  {
-    label: 'Medium',
-    href: 'https://medium.com/@example',
-    icon: 'mdi:medium',
   },
   {
     label: 'RSS',
